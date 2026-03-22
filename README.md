@@ -2,6 +2,8 @@
 
 Displays a real-time audio spectrum on Framework 16 LED matrices. Captures system audio and shows frequency bars on both left and right matrix modules.
 
+![Demo](demo.gif)
+
 ## Running it
 
 ```bash
